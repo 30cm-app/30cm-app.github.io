@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 評選</title>
+    <link>https://30cm-app.github.io/categories/</link>
+    <description>Recent content in Categories on 評選</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 04 Oct 2023 21:20:19 +0000</lastBuildDate><atom:link href="https://30cm-app.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>影片</title>
+      <link>https://30cm-app.github.io/categories/%E5%BD%B1%E7%89%87/</link>
+      <pubDate>Wed, 04 Oct 2023 21:20:19 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E5%BD%B1%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>動畫</title>
+      <link>https://30cm-app.github.io/categories/%E5%8B%95%E7%95%AB/</link>
+      <pubDate>Wed, 04 Oct 2023 16:59:43 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E5%8B%95%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>插畫</title>
+      <link>https://30cm-app.github.io/categories/%E6%8F%92%E7%95%AB/</link>
+      <pubDate>Wed, 04 Oct 2023 16:09:19 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E6%8F%92%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>圖片</title>
+      <link>https://30cm-app.github.io/categories/%E5%9C%96%E7%89%87/</link>
+      <pubDate>Wed, 04 Oct 2023 16:03:44 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E5%9C%96%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漫畫</title>
+      <link>https://30cm-app.github.io/categories/%E6%BC%AB%E7%95%AB/</link>
+      <pubDate>Wed, 04 Oct 2023 16:02:28 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E6%BC%AB%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>番號片</title>
+      <link>https://30cm-app.github.io/categories/%E7%95%AA%E8%99%9F%E7%89%87/</link>
+      <pubDate>Tue, 03 Oct 2023 13:48:50 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E7%95%AA%E8%99%9F%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小說</title>
+      <link>https://30cm-app.github.io/categories/%E5%B0%8F%E8%AA%AA/</link>
+      <pubDate>Mon, 11 Sep 2023 02:20:28 +0000</pubDate>
+      
+      <guid>https://30cm-app.github.io/categories/%E5%B0%8F%E8%AA%AA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
