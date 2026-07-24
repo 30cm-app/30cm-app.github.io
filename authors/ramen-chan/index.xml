@@ -1,31 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Ramen-Chan on x @30cm.app</title>
-		<link>https://x.30cm.app/authors/ramen-chan/</link>
-		<description>Recent content in Ramen-Chan on x @30cm.app</description>
-		<generator>Hugo</generator>
-		<language>zh-TW</language>
-		
-		
-		
-		
-			<lastBuildDate>Sat, 27 Jun 2026 04:09:29 +0000</lastBuildDate>
-		
-			<atom:link href="https://x.30cm.app/authors/ramen-chan/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>[Ramen-chan] Marin Kitagawa</title>
-				<link>https://x.30cm.app/items/09c2c5653b2c5582736a95f2c0473ad2/</link>
-				<pubDate>Sat, 27 Jun 2026 04:09:29 +0000</pubDate>
-				<guid>https://x.30cm.app/items/09c2c5653b2c5582736a95f2c0473ad2/</guid>
-				<description>&lt;h2 id=&#34;資料摘要&#34;&gt;資料摘要&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;類型：漫畫&lt;/li&gt;&#xA;&lt;li&gt;讚數：5&lt;/li&gt;&#xA;&lt;li&gt;系列名：Ramen-chan&lt;/li&gt;&#xA;&lt;li&gt;頁數：237&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;說明&#34;&gt;說明&lt;/h2&gt;&#xA;&lt;p&gt;[Ramen-chan] Marin Kitagawa 的類型、讚數與標籤摘要。&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>[Ramen-chan]ヨル・フォージャー</title>
-				<link>https://x.30cm.app/items/e19aff44388712cc29f0945229711ffc/</link>
-				<pubDate>Wed, 15 Apr 2026 03:26:04 +0000</pubDate>
-				<guid>https://x.30cm.app/items/e19aff44388712cc29f0945229711ffc/</guid>
-				<description>&lt;h2 id=&#34;資料摘要&#34;&gt;資料摘要&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;類型：漫畫&lt;/li&gt;&#xA;&lt;li&gt;讚數：5&lt;/li&gt;&#xA;&lt;li&gt;系列名：Ramen-chan&lt;/li&gt;&#xA;&lt;li&gt;頁數：210&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;說明&#34;&gt;說明&lt;/h2&gt;&#xA;&lt;p&gt;[Ramen-chan]ヨル・フォージャー 的類型、讚數與標籤摘要。&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ramen-Chan on x @30cm.app</title><link>https://x.30cm.app/authors/ramen-chan/</link><description>Recent content in Ramen-Chan on x @30cm.app</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Sat, 27 Jun 2026 04:09:29 +0000</lastBuildDate><atom:link href="https://x.30cm.app/authors/ramen-chan/index.xml" rel="self" type="application/rss+xml"/><item><title>[Ramen-chan] Marin Kitagawa</title><link>https://x.30cm.app/items/09c2c5653b2c5582736a95f2c0473ad2/</link><pubDate>Sat, 27 Jun 2026 04:09:29 +0000</pubDate><guid>https://x.30cm.app/items/09c2c5653b2c5582736a95f2c0473ad2/</guid><description>&lt;h2 id="資料摘要"&gt;資料摘要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;類型：漫畫&lt;/li&gt;
+&lt;li&gt;讚數：5&lt;/li&gt;
+&lt;li&gt;系列名：Ramen-chan&lt;/li&gt;
+&lt;li&gt;頁數：237&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="說明"&gt;說明&lt;/h2&gt;
+&lt;p&gt;[Ramen-chan] Marin Kitagawa 的類型、讚數與標籤摘要。&lt;/p&gt;</description></item><item><title>[Ramen-chan]ヨル・フォージャー</title><link>https://x.30cm.app/items/e19aff44388712cc29f0945229711ffc/</link><pubDate>Wed, 15 Apr 2026 03:26:04 +0000</pubDate><guid>https://x.30cm.app/items/e19aff44388712cc29f0945229711ffc/</guid><description>&lt;h2 id="資料摘要"&gt;資料摘要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;類型：漫畫&lt;/li&gt;
+&lt;li&gt;讚數：5&lt;/li&gt;
+&lt;li&gt;系列名：Ramen-chan&lt;/li&gt;
+&lt;li&gt;頁數：210&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="說明"&gt;說明&lt;/h2&gt;
+&lt;p&gt;[Ramen-chan]ヨル・フォージャー 的類型、讚數與標籤摘要。&lt;/p&gt;</description></item></channel></rss>

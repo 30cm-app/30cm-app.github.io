@@ -1,24 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tommu on x @30cm.app</title>
-		<link>https://x.30cm.app/authors/tommu/</link>
-		<description>Recent content in Tommu on x @30cm.app</description>
-		<generator>Hugo</generator>
-		<language>zh-TW</language>
-		
-		
-		
-		
-			<lastBuildDate>Wed, 16 Jul 2025 19:15:13 +0000</lastBuildDate>
-		
-			<atom:link href="https://x.30cm.app/authors/tommu/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>[Tommu]Marin&#39;s Dark Allure</title>
-				<link>https://x.30cm.app/items/a0ec44f3e87f2c1739bf3e8f71276f61/</link>
-				<pubDate>Wed, 16 Jul 2025 19:15:13 +0000</pubDate>
-				<guid>https://x.30cm.app/items/a0ec44f3e87f2c1739bf3e8f71276f61/</guid>
-				<description>&lt;h2 id=&#34;資料摘要&#34;&gt;資料摘要&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;類型：漫畫&lt;/li&gt;&#xA;&lt;li&gt;讚數：6&lt;/li&gt;&#xA;&lt;li&gt;系列名：Tommu&lt;/li&gt;&#xA;&lt;li&gt;頁數：402&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;說明&#34;&gt;說明&lt;/h2&gt;&#xA;&lt;p&gt;[Tommu]Marin&amp;rsquo;s Dark Allure 的類型、讚數與標籤摘要。&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tommu on x @30cm.app</title><link>https://x.30cm.app/authors/tommu/</link><description>Recent content in Tommu on x @30cm.app</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Wed, 16 Jul 2025 19:15:13 +0000</lastBuildDate><atom:link href="https://x.30cm.app/authors/tommu/index.xml" rel="self" type="application/rss+xml"/><item><title>[Tommu]Marin's Dark Allure</title><link>https://x.30cm.app/items/a0ec44f3e87f2c1739bf3e8f71276f61/</link><pubDate>Wed, 16 Jul 2025 19:15:13 +0000</pubDate><guid>https://x.30cm.app/items/a0ec44f3e87f2c1739bf3e8f71276f61/</guid><description>&lt;h2 id="資料摘要"&gt;資料摘要&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;類型：漫畫&lt;/li&gt;
+&lt;li&gt;讚數：6&lt;/li&gt;
+&lt;li&gt;系列名：Tommu&lt;/li&gt;
+&lt;li&gt;頁數：402&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="說明"&gt;說明&lt;/h2&gt;
+&lt;p&gt;[Tommu]Marin&amp;rsquo;s Dark Allure 的類型、讚數與標籤摘要。&lt;/p&gt;</description></item></channel></rss>
