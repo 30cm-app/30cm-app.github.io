@@ -1,1 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Item_types on x @30cm.app</title><link>https://x.30cm.app/item_types/</link><description>Recent content in Item_types on x @30cm.app</description><generator>Hugo</generator><language>zh-TW</language><lastBuildDate>Tue, 30 Jun 2026 13:42:05 +0000</lastBuildDate><atom:link href="https://x.30cm.app/item_types/index.xml" rel="self" type="application/rss+xml"/><item><title>Comic</title><link>https://x.30cm.app/item_types/comic/</link><pubDate>Tue, 30 Jun 2026 13:42:05 +0000</pubDate><guid>https://x.30cm.app/item_types/comic/</guid><description/></item><item><title>Video</title><link>https://x.30cm.app/item_types/video/</link><pubDate>Mon, 29 Jun 2026 10:02:02 +0000</pubDate><guid>https://x.30cm.app/item_types/video/</guid><description/></item><item><title>Film</title><link>https://x.30cm.app/item_types/film/</link><pubDate>Sun, 28 Jun 2026 15:49:25 +0000</pubDate><guid>https://x.30cm.app/item_types/film/</guid><description/></item><item><title>Illustration</title><link>https://x.30cm.app/item_types/illustration/</link><pubDate>Sun, 21 Jun 2026 01:28:07 +0000</pubDate><guid>https://x.30cm.app/item_types/illustration/</guid><description/></item><item><title>Image</title><link>https://x.30cm.app/item_types/image/</link><pubDate>Mon, 01 Jun 2026 10:05:58 +0000</pubDate><guid>https://x.30cm.app/item_types/image/</guid><description/></item><item><title>Animate</title><link>https://x.30cm.app/item_types/animate/</link><pubDate>Sat, 09 May 2026 19:29:22 +0000</pubDate><guid>https://x.30cm.app/item_types/animate/</guid><description/></item><item><title>Fiction</title><link>https://x.30cm.app/item_types/fiction/</link><pubDate>Sun, 04 Jun 2023 22:44:32 +0000</pubDate><guid>https://x.30cm.app/item_types/fiction/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Item_types on x @30cm.app</title>
+		<link>https://x.30cm.app/item_types/</link>
+		<description>Recent content in Item_types on x @30cm.app</description>
+		<generator>Hugo</generator>
+		<language>zh-TW</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 30 Jul 2026 17:48:11 +0000</lastBuildDate>
+		
+			<atom:link href="https://x.30cm.app/item_types/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Comic</title>
+				<link>https://x.30cm.app/item_types/comic/</link>
+				<pubDate>Thu, 30 Jul 2026 17:48:11 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/comic/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Film</title>
+				<link>https://x.30cm.app/item_types/film/</link>
+				<pubDate>Wed, 29 Jul 2026 04:50:43 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/film/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Video</title>
+				<link>https://x.30cm.app/item_types/video/</link>
+				<pubDate>Tue, 28 Jul 2026 18:47:32 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/video/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Animate</title>
+				<link>https://x.30cm.app/item_types/animate/</link>
+				<pubDate>Sun, 05 Jul 2026 12:22:33 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/animate/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Image</title>
+				<link>https://x.30cm.app/item_types/image/</link>
+				<pubDate>Sun, 05 Jul 2026 03:45:17 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/image/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Illustration</title>
+				<link>https://x.30cm.app/item_types/illustration/</link>
+				<pubDate>Sun, 21 Jun 2026 01:28:07 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/illustration/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fiction</title>
+				<link>https://x.30cm.app/item_types/fiction/</link>
+				<pubDate>Sun, 04 Jun 2023 22:44:32 +0000</pubDate>
+				<guid>https://x.30cm.app/item_types/fiction/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
